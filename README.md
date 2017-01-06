@@ -11,10 +11,16 @@
 - 내부에서 JSON으로 통신 파이썬이 아닌 다른 언어로도 모듈 개발 가능
 
 ## Link
+### Official
 - [ANSIBLE](http://www.ansible.com/)
 - [Docs](http://docs.ansible.com/)
 - [ansible-examples](https://github.com/ansible/ansible-examples)
+- [Galaxy](https://galaxy.ansible.com/)
+
+### Documents
 - [raymii.org](https://raymii.org/s/tags/ansible.html)
+
+### Tutorial
 - [ansible-tuto](https://github.com/leucos/ansible-tuto)
 
 ## Book
